@@ -10,7 +10,7 @@
 - GitHub: (https://github.com/nesibecan)
 
 ### Connect with me:
-- LinkedIn: [nesibeşeymacan](www.linkedin.com/in/nesibeşeymacan/)
+- LinkedIn: [nesibeşeymacan](https://www.linkedin.com/in/nesibe%C5%9Feymacan/)
 
 ### Languages and Tools:
 <p align="left">
