@@ -23,7 +23,7 @@
   </a>
   &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit_learn" width="100" height="100" style="padding-right: 10px;"/>  
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit_learn" width="80" height="60" style="padding-right: 10px;"/>  
   </a>
   &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   
