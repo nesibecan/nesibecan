@@ -7,7 +7,7 @@
 
 ###  How to reach me:
 - Email: nesibecan2000@gmail.com
-- GitHub: (https://github.com/nesibecan)
+- GitHub: https://github.com/nesibecan
 
 ### Connect with me:
 - LinkedIn: [nesibeşeymacan](https://www.linkedin.com/in/nesibe%C5%9Feymacan/)
