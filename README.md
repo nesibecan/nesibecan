@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 3em;">Hi, I'm Nesibe Seyma CAN👋</h1>
+<h1 align="center" style="font-size: 3em;">Hello, This is Nesibe Seyma CAN👋</h1>
 
 ### 👨‍💻 Data Scientist | All of my projects are available at [GitHub](https://github.com/nesibecan).
 
