@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Data Scientist | All of my projects are available at [GitHub](https://github.com/nesibecan).
 
-### 📝 I regularly write articles on [Medium](https://medium.com/@nesibecan2000).
+### 📝 [Medium](https://medium.com/@nesibecan2000).
 
 ###  How to reach me:
 - Email: nesibecan2000@gmail.com
@@ -26,6 +26,10 @@
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit_learn" width="80" height="60" style="padding-right: 10px;"/>  
   </a>
   &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="padding-right: 10px;"/>
+</a>
+
   
 </p>
 
